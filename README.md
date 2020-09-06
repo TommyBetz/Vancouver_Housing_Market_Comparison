@@ -1,4 +1,4 @@
-# vancouver_housing_market_comparison
+# Vancouver Housing Market Comparison
 
 This repository contains the code, data, and a report on my Tableau workbook for a comparison on the Vancouver housing market.
 
